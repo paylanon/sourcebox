@@ -7,7 +7,7 @@
 ```
 
 GEANT4 Detector-Physics Environment
-_A **Kamaha Labs** Project
+_A **Kamaha Labs** Project_
 
 
 
