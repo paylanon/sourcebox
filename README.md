@@ -88,7 +88,7 @@ cmake --build . --target install -- -j4
 ```
 Donzo, _Geant4_ is now ready for action.
 
-##### Installing _ROOT7_:
+#### Installing _ROOT_:
 
 Download the latest version of ROOT, as a **TAR** file, from the following link: https://root.cern/install/all_releases/
 
