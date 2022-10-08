@@ -9,9 +9,9 @@
 
 A Source-Container Simulation Environment
 
-Developed in GEANT4 by **Kamaha Labs** at the _University of California, Los Angeles_
+Developed in GEANT4 by **Kamaha Labs** at UCLA.
 
-#### Installation 💽
+### Installation 💽
 
 Requirements:
 
@@ -20,7 +20,7 @@ Requirements:
 + [x] Visualizer _e.g. Qt5_
 + [x] Analysis Tool _e.g. ROOT7_
 
-##### Installing _Geant4_ in Ubuntu 22:
+#### Installing _Geant4_ in Ubuntu 22:
 
 Start by opening a **Terminal** window.
 
@@ -100,9 +100,9 @@ sudo chown -R 'YourUsername' /usr/local/root
 chmod +x /usr/local/root/bin/thisroot.*
 ```
 
-#### Running SourceBox 🖥️
+### Running SourceBox 🖥️
 
-Instructions for Ubuntu (Bash):
+Instructions for Ubuntu:
 
 1. Navigate Terminal to _.../SourceBox/Build_ Folder
 2. **Source** Geant4 (Use your _geant4_ directory):
@@ -143,13 +143,17 @@ source /usr/local/root/bin/thisroot.sh
 root Output.root
 ```
 
-#### Included Macros ⚙️
+### Included Macros ⚙️
 
-These Macros pertain to the **radioactive source** stored in the safe:
+These macros pertain to the **radioactive source** stored in the safe:
 
-#### Container Materials and Dimensions 🎛️
+> Cf252
+
+> AmBe
+
+Create your own macros by copying these files, and replacing the **energy spectrum** with that of your source.
+
+#### Editing Container Materials and Dimensions 🎛️
 
 See _AetherBones/**Construction.cc**_ and refer to comments.
-
-
 
