@@ -7,7 +7,8 @@
 ```
 
 GEANT4 Detector-Physics Environment
-_A **Kamaha Labs** Project_
+
+_By **Kamaha Labs** at the University of California, Los Angeles_
 
 
 
