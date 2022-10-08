@@ -153,7 +153,9 @@ These macros pertain to the **radioactive source** stored in the safe:
 
 Create your own macros by copying these files, and replacing the **energy spectrum** with that of your source.
 
-#### Editing Container Materials and Dimensions 🎛️
+### Container Materials and Dimensions 🎛️
 
-See _AetherBones/**Construction.cc**_ and refer to comments.
+The included geometry is a steel safe with two inner layers of HDPE, a container used at Kamaha Labs.
+
+To make changes to the geometry, see _AetherBones/**Construction.cc**_ and refer to comments.
 
