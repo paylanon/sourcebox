@@ -9,7 +9,7 @@
 
 A Source-Container Simulation Environment
 
-Developed in GEANT4 by **Kamaha Labs** at UCLA.
+Developed in GEANT4 by **Kamaha Labs** at UCLA
 
 ### Installation 💽
 
