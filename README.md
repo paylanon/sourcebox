@@ -6,7 +6,9 @@
 ██   ██ ███████    ██    ██   ██ ███████ ██   ██ 
 ```
 
-A GEANT4 Detector-Physics Environment
+GEANT4 Detector-Physics Environment
+_A **Kamaha Labs** Project
+
 
 
 
