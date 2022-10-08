@@ -157,5 +157,14 @@ Create your own macros by copying these files, and replacing the **energy spectr
 
 The included geometry is a steel safe with two inner layers of HDPE, a container used at Kamaha Labs.
 
+```text
+ ___________
+|   _____   |
+|  |  _  |  |
+|  | |_| |  |
+|  |_____|  |
+|___________|
+```
+
 To make changes to the geometry, see _AetherBones/**Construction.cc**_ and refer to comments.
 
