@@ -1,0 +1,43 @@
+# Cf252 Source
+
+# /gps/hist/file
+# /gps/particle ion
+# /gps/ion 98 252
+
+# verbosity: how much info. printed
+/control/verbose 2
+/tracking/verbose 1
+/event/verbose 1
+/gps/verbose 2
+
+/gps/particle neutron
+
+/gps/ang/type iso
+
+/gps/ene/type Arb
+/gps/hist/type arb
+
+/gps/hist/point  0.03791	32.71076
+/gps/hist/point  0.08301	45.89684
+/gps/hist/point  0.19830	59.07265
+/gps/hist/point  0.34993	68.10622
+/gps/hist/point  0.60544	74.34164
+/gps/hist/point  0.81070	76.17980
+/gps/hist/point  1.08555	73.89820
+/gps/hist/point  1.55102	64.25226
+/gps/hist/point  1.89664	55.40119
+/gps/hist/point  2.39728	45.95365
+/gps/hist/point  2.82949	37.80812
+/gps/hist/point  3.50389	27.66813
+/gps/hist/point  4.40363	17.72709
+/gps/hist/point  5.04448	12.47039
+/gps/hist/point  5.61632	8.97969
+/gps/hist/point  6.24062	6.12068
+/gps/hist/point  7.02125	3.73887
+/gps/hist/point  8.84360	1.12916
+/gps/hist/inter Lin
+
+/gps/number 1000
+
+
+/run/beamOn 1
