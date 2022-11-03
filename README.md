@@ -168,5 +168,5 @@ The included geometry is a steel safe with two inner layers of HDPE, a container
 ...you get the idea.
 ```
 
-To make changes to the geometry, see _AetherBones/**Construction.cc**_ and refer to comments.
+To make changes to the geometry, see _SourceBox/**Construction.cc**_ and refer to comments.
 
